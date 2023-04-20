@@ -23,6 +23,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# Contributions 
+<img src="https://raw.githubusercontent.com/Unishkhadka/Unishkhadka/blob/output/snake.svg" alt="Snake animation" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Unishkhadka&icon=0&color=0)](https://visitcount.itsvg.in)
