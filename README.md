@@ -2,9 +2,6 @@
 <h3 align="center">A programming enthusiast and a learner.</h3>
 <img align="right" alt="coding" width="330" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unishkhadka&label=Profile%20views&color=0e75b6&style=flat" alt="unishkhadka" /> </p>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/unish.khadka.14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unish.khadka.14) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/unish_14) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/unish_khadka) 
 
